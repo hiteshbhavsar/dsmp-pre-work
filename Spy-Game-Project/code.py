@@ -28,11 +28,6 @@ print(message_2)
 secret_msg_1=fuse_msg(message_1,message_2)
 
 
-
-
-
-
-
 # --------------
 #Code starts here
 def substitute_msg(message_c):
@@ -71,10 +66,6 @@ print(message_4)
 print(message_5)
 
 secret_msg_3=compare_msg(message_4,message_5)
-
-
-
-
 
 # --------------
 #Code starts here
